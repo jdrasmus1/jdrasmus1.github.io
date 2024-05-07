@@ -1,11 +1,25 @@
 ---
 title: "Justin Rasmussen"
+about:
+  template: jolla
+  image: headshot_justin_24.jpg
+  image-shape: rectangle
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=lfiHrAoAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/jdrasmus1/
+    - icon: bank
+      text: Scholars@Duke
+      href: https://scholars.duke.edu/person/justin.rasmussen
 ---
 
-This is a Quarto website.
+I am clinical psychology PhD candidate at Duke University. My primary research interests center on improving access to mental health care in East Africa through professional training and existing community structures. I'm especially interested in understanding the influence of cultural and social context on mental health promotion and intervention. My work has focused on mental illness stigma, collaborative psychosocial interventions with religious congregations, and lay counselor social support. Although not directly part of my research, I also spend a lot my free time learning about the history of psychiatry and research in Africa and trying to improve my Kiswahili.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Duke University \| Durham, NC MA in Clinical Psychology \| 2022
+
+Macalester College \| St. Paul, MN BA in Psychology \| 2012
