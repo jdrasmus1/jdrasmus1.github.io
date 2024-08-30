@@ -2,7 +2,7 @@
 title: "Justin Rasmussen"
 about:
   template: jolla
-  image: headshot_justin_24.jpg
+  image: headshot_gje_full.jpg
   image-shape: rectangle
   links:
     - icon: mortarboard-fill
