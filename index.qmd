@@ -1,4 +1,5 @@
 ---
+title: "Justin Rasmussen"
 image: justin_backback_kenya.jpg
 format:
   html:
@@ -17,8 +18,6 @@ about:
       text: Scholars@Duke
       href: https://scholars.duke.edu/person/justin.rasmussen
 ---
-
-## About Me
 
 I am a PhD candidate in clinical psychology at Duke University and a [von der Heyden Global Fellow](https://jhfc.duke.edu/academics/vdhfellows/) at the John Hope Franklin Center. Across my training as a clinician, researcher, and teacher my goal is to bring scientific evidence and lived experience together to improve the quality and accessibility of mental health care.
 
