@@ -1,0 +1,29 @@
+---
+title: "Clinical Practice"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+As a clinician, I am committed to providing evidence-based, culturally sensitive, and trauma-informed care. I have experience working with children, adolescents, and adults in a variety of outpatient settings, having delivered evidence-based therapies for mood, anxiety, obsessive-compulsive, substance use, personality, and traumatic stress disorders.
+
+I am currently applying to clinical internships for next year.
+
+### Doctoral practicum sites
+
+[Durham Veterans Affairs Medical Center](https://www.va.gov/durham-health-care/locations/hillandale-road-va-clinic/): Trauma Recovery Program
+
+Duke University Hospital Outpatient Clinics:
+
+-   [Duke Psychiatry at Civitan Building](https://www.dukehealth.org/locations/duke-psychiatry-civitan-building) (Adult CBT and full-model DBT program)
+
+-   [Duke Pediatric Neuropsychology Clinic](https://www.dukehealth.org/locations/duke-pediatric-neuropsychology-clinic)
+
+[Duke Child and Family Study Center](https://www.dukehealth.org/locations/duke-child-and-family-study-center)
+
+-   Duke Center for Adolescent and Young Adult Substance Use Treatment (CAST)
+
+-   Psychosocial Treatment Clinic
+
+[Duke Psychology Community Clinic](https://psychandneuro.duke.edu/graduate/clinical/clinic)

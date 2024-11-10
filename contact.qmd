@@ -1,0 +1,15 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+I'd love to hear from you! Send me an email at justin.rasmussen\@duke.edu
+
+I can't provide clinical advice on referrals but I'm happy to chat about research, teaching, or other interests.
+
+If you are a student interested in grad school in clinical psychology or global mental health, check out [Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf) and then email me with a clear subject line and mention how you came across my profile. I'd be happy to chat about your goals and interests.
+
+If you're interested in learning R or how to make your own free website like this one, check out my [Web Resources to Start Learning R](https://docs.google.com/document/d/15e8b9HFdL5ewEiWUXC_Dhw9Wx-U8Ze3-r6iFxcUTam4/edit?tab=t.0#heading=h.78m3wopkml0i) or [my GitHub page for this website](https://github.com/jdrasmus1/jdrasmus1.github.io).

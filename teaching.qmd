@@ -1,0 +1,23 @@
+---
+title: "Teaching & Mentoring"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+![](teaching_kenya_crop.jpg)
+
+### Experience
+
+One of the joys of my doctoral training has been the opportunity to teach and mentor students. I am currently instructor of record for a project-based community psychology course funded by Bass Connections titled [Strengthening Families Across Contexts](https://bassconnections.duke.edu/project-teams/strengthening-families-across-contexts-multidirectional-learning-2024-2025). My previous teaching experience has included conducting labs for graduate statistics and data science courses, running discussion sections for an undergraduate psychopathology course, and teaching basic psychotherapy skills to peer counselors in Kenya (pictured above). Through our research work, I've helped mentor graduate and undergraduate students at Duke and at our partner site at Moi University.
+
+### Philosophy
+
+When I teach, I emphasize flexible core paradigms, encourage students connect their current knowledge, and provide opportunities for them to learn independently. I view academia as connected to wider communities and histories so I try to use widely available technologies (free and open source) as much as possible and engage students in critical thinking about the social, cultural, and historical context of scientific knowledge. As part of my commitment to learning and continuing to develop as a teacher, I am completing the College Teaching Certificate.
+
+### Perspectives on African Mental Health & Illness
+
+It is my experience that African voices are especially underrepresented in psychological training and teaching. Having sought out these perspectives myself, I began collecting them in a multimedia database on [Perspectives on African Mental Health & Illness](https://docs.google.com/spreadsheets/d/1B9xSMUCduubjwRja7G18onV1Ba6iMXsevFvlQujV0uE/edit?gid=0#gid=0) for students and teachers. It contains podcasts, movies, books, magazine articles, and more.
+
+I hope you'll check it out, incorporate some of the resources in your teaching, or send me suggestions for additions.

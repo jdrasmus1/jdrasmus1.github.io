@@ -1,9 +1,12 @@
 ---
-title: "Justin Rasmussen"
+title: "About Me"
+image: justin_backback_kenya.jpg
+format:
+  html:
+    toc: false
+    page-layout: full
 about:
-  template: jolla
-  image: headshot_justin_24.jpg
-  image-shape: rectangle
+  template: trestles
   links:
     - icon: mortarboard-fill
       text: Google Scholar
@@ -16,10 +19,12 @@ about:
       href: https://scholars.duke.edu/person/justin.rasmussen
 ---
 
-I am clinical psychology PhD candidate at Duke University. My primary research interests center on improving access to mental health care in East Africa through professional training and existing community structures. I'm especially interested in understanding the influence of cultural and social context on mental health promotion and intervention. My work has focused on mental illness stigma, collaborative psychosocial interventions with religious congregations, and lay counselor social support. Although not directly part of my research, I also spend a lot my free time learning about the history of psychiatry and research in Africa and trying to improve my Kiswahili.
+## About Me
 
-## Education
+I am a PhD candidate in clinical psychology at Duke University and a [von der Heyden Global Fellow](https://jhfc.duke.edu/academics/vdhfellows/) at the John Hope Franklin Center. Across my training as a clinician, researcher, and teacher my goal is to bring scientific evidence and lived experience together to improve the quality and accessibility of mental health care.
 
-Duke University \| MA in Clinical Psychology \| 2022
+I grew up in Tanzania and Kenya. I enjoy running, cooking, writing and reading poetry, and learning about almost everything (especially history).
 
-Macalester College \| BA in Psychology \| 2012
+Check out the rest of my website to learn more about my research, clinical practice, teaching and mentoring or to download my CV.
+
+## 

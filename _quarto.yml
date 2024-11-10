@@ -5,16 +5,20 @@ project:
 website:
   title: "Justin Rasmussen"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
       - research.qmd
+      - teaching.qmd
+      - clinical.qmd
+      - contact.qmd
+      - text: "{{< ai cv size=large >}}"
+        href: files/JMRasmussen_CV.pdf
 
 format:
   html:
-    theme: lux
+    theme: litera
     css: styles.css
-    toc: true
+    toc: false
     toc-location: left
     toc-title: "Sections"
 
