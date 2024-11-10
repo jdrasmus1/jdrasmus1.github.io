@@ -1,5 +1,4 @@
 ---
-title: "About Me"
 image: justin_backback_kenya.jpg
 format:
   html:
