@@ -19,10 +19,14 @@ about:
       href: https://scholars.duke.edu/person/justin.rasmussen
 ---
 
-I am a PhD candidate in clinical psychology at Duke University and a [von der Heyden Global Fellow](https://jhfc.duke.edu/academics/vdhfellows/) at the John Hope Franklin Center. Across my training as a clinician, researcher, and teacher my goal is to bring scientific evidence and lived experience together to improve the quality and accessibility of mental health care.
+I am a PhD candidate in clinical psychology at Duke University training as a clinician, researcher, and teacher. **My goal is to bring scientific evidence and lived experience together to improve the quality and accessibility of mental health care.**
 
-I grew up in Tanzania and Kenya. I enjoy running, cooking, writing and reading poetry, and learning about almost everything (especially history).
+My research focuses on how community, social, and cultural systems shape mental health risk, promotion, and intervention. I am especially focused on using clinical evidence to develop multilevel interventions that support individual mental health by strengthening families, institutions, and communities.
 
-Check out the rest of my website to learn more about my research, clinical practice, teaching and mentoring or to download my CV.
+I grew up in Tanzania and Kenya and got my bachelor’s degree in psychology from Macalester College in Saint Paul, Minnesota. After graduating, I worked with Alex Tsai at Massachusetts General Hospital for two and a half years as an on-site project coordinator for a longitudinal microenterprise, water security, health, and social network study in Mbarara, Uganda.
+
+At the moment, I am a [von der Heyden Global Fellow](https://jhfc.duke.edu/academics/vdhfellows/) at the John Hope Franklin Center, Instructor of Record for a project-based global health and community psychology class entitled [Strengthening Families Across Contexts](https://bassconnections.duke.edu/project-teams/strengthening-families-across-contexts-multidirectional-learning-2024-2025), and a practicum trainee at the Durham VA and Duke Pediatric Neuropsychology Clinic.
+
+Check out the rest of my website to learn more about my [research](https://jdrasmus1.github.io/research.html), [clinical training](https://jdrasmus1.github.io/clinical.html), [teaching experience](https://jdrasmus1.github.io/teaching.html), or to [download my CV](https://jdrasmus1.github.io/files/JMRasmussen_CV.pdf).
 
 ## 

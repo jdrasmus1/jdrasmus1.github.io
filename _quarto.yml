@@ -6,13 +6,23 @@ website:
   title: "Justin Rasmussen"
   navbar:
     right:
-      - href: index.qmd
+      - text: "About"
+        href: index.qmd
       - research.qmd
-      - teaching.qmd
-      - clinical.qmd
-      - contact.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Clinical"
+        href: clinical.qmd
+      - text: "Contact"
+        href: contact.qmd
       - text: "{{< ai cv size=large >}}"
         href: files/JMRasmussen_CV.pdf
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=lfiHrAoAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/jdrasmus1/
+      - icon: bank
+        href: https://scholars.duke.edu/person/justin.rasmussen
 
 format:
   html:

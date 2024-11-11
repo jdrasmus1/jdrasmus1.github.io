@@ -1,5 +1,5 @@
 ---
-title: "Clinical Practice"
+title: "Clinical Training"
 format:
   html:
     toc: false
@@ -12,18 +12,20 @@ I am currently applying to clinical internships for next year.
 
 ### Doctoral practicum sites
 
-[Durham Veterans Affairs Medical Center](https://www.va.gov/durham-health-care/locations/hillandale-road-va-clinic/): Trauma Recovery Program
+***Durham VA Medical Center***
 
-Duke University Hospital Outpatient Clinics:
+-   Trauma Recovery Program
 
--   [Duke Psychiatry at Civitan Building](https://www.dukehealth.org/locations/duke-psychiatry-civitan-building) (Adult CBT and full-model DBT program)
+***Duke University Hospital Outpatient Clinics***
 
--   [Duke Pediatric Neuropsychology Clinic](https://www.dukehealth.org/locations/duke-pediatric-neuropsychology-clinic)
+-   Duke Psychiatry at Civitan Building (Adult CBT and full-model DBT program)
 
-[Duke Child and Family Study Center](https://www.dukehealth.org/locations/duke-child-and-family-study-center)
+-   Duke Pediatric Neuropsychology Clinic
+
+***Duke Child and Family Study Center***
 
 -   Duke Center for Adolescent and Young Adult Substance Use Treatment (CAST)
 
--   Psychosocial Treatment Clinic
+-   Psychosocial Treatment Clinic (child- and family-focused CBT)
 
-[Duke Psychology Community Clinic](https://psychandneuro.duke.edu/graduate/clinical/clinic)
+***Duke Psychology Community Clinic*** (department training clinic)
