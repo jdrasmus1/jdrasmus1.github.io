@@ -1,6 +1,6 @@
 ---
 title: "Justin Rasmussen"
-image: justin_backback_kenya.jpg
+image: headshot_gje_prof.jpg
 format:
   html:
     toc: false
