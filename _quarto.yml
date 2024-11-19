@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Justin Rasmussen"
+  search: false
   navbar:
     right:
       - text: "About"
