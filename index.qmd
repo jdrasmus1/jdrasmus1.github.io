@@ -1,6 +1,6 @@
 ---
 title: "Justin Rasmussen"
-image: headshot_gje_prof.jpg
+image: WedatCenter_Results_sq.jpg
 format:
   html:
     toc: false

@@ -5,7 +5,8 @@ project:
 website:
   title: "Justin Rasmussen"
   search: false
-  navbar:
+  favicon: network favicon.png
+  navbar: 
     right:
       - text: "About"
         href: index.qmd
